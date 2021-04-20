@@ -1,0 +1,14 @@
+1. LOGIN SEBAGAI role Manager
+
+USERNAME: manager1
+PASSWORD: manager
+
+2. LOGIN SEBAGAI role Staff
+
+USERNAME: staff
+PASSWORD: staff
+
+2. LOGIN SEBAGAI role Admin
+
+USERNAME: admin1
+PASSWORD: admin
